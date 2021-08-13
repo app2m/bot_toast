@@ -7,7 +7,6 @@ A really easy to use flutter toast library!
 [![codecov](https://codecov.io/gh/MMMzq/bot_toast/branch/master/graph/badge.svg)](https://codecov.io/gh/MMMzq/bot_toast)
 
 ### Language: English | [中文简体](README_zh.md)
-
 * [🐲Overview](#Overview)
 * [🐼Online Demo](#Online-Demo)
 * [🐳Example](#Example)
